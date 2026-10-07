@@ -135,6 +135,11 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="right" 
+    alt="Hedgehog"
+    src="https://discord.com/channels/1404981527082696774/1404981527791800391/1557421357871013988"
+/>
 
 <br/>
 <br/>
