@@ -138,7 +138,8 @@
 <img 
     align="right" 
     alt="Hedgehog"
-    src="https://discord.com/channels/1404981527082696774/1404981527791800391/1557421357871013988"
+    width="60px"
+    src="https://github.com/YRicci/YRicci/blob/main/assets/hedgehog.gif?raw=true"
 />
 
 <br/>
