@@ -1,4 +1,4 @@
-# 😎 Yago R.
+# Yago R.
 
 ** Desenvolvedor FullStack **
 
@@ -138,7 +138,7 @@
 <img 
     align="right" 
     alt="Hedgehog"
-    width="60px"
+    width="40px"
     src="https://github.com/YRicci/YRicci/blob/main/assets/hedgehog.gif?raw=true"
 />
 
