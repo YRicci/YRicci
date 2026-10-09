@@ -136,12 +136,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="right" 
-    alt="Hedgehog"
-    width="40px"
-    src="https://github.com/YRicci/YRicci/blob/main/assets/hedgehog.gif?raw=true"
-/>
-<img 
     align="left" 
     alt="Windows" 
     title="Windows" 
@@ -165,6 +159,16 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
 />
+
+<!-- Hedgehog Gif -->
+
+<img 
+    align="right" 
+    alt="Hedgehog"
+    width="40px"
+    src="https://github.com/YRicci/YRicci/blob/main/assets/hedgehog.gif?raw=true"
+/>
+
 <br/>
 <br/>
 <p>
