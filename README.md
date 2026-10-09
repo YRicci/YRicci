@@ -9,7 +9,7 @@
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/YRicci?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
- <a href="https://github.com/Larissakich?tab=followers">
+ <a href="https://github.com/YRicci?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -141,7 +141,22 @@
     width="40px"
     src="https://github.com/YRicci/YRicci/blob/main/assets/hedgehog.gif?raw=true"
 />
-
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kali Linux" 
+    title="Kali Linux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
+/>
 <br/>
 <br/>
 <p>
@@ -169,8 +184,21 @@
   </tr>
 </table>
 
+<!-- Gif do jogo snake -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YRicci/YRicci/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YRicci/YRicci/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/YRicci/YRicci/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- cidade commit -->
+
+
+<!-- Steins Gate -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF8C00&center=true&vcenter=true&width=435&lines=Divergence%3A+1.048596%25;El+Psy+Kongroo" alt="Steins Gate Divergence" />
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YRicci.YRicci&left_color=1a1a1a&right_color=FF8C00&style=flat-square" alt="Visitors" />
+</div>
