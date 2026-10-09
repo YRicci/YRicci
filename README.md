@@ -169,4 +169,4 @@
   </tr>
 </table>
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/YRicci/YRicci/output/github-contribution-grid-snake.svg)
